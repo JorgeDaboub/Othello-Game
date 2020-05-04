@@ -1,0 +1,20 @@
+Othello Board Game
+By: Jorge Daboub
+
+Othello is a two player board game, played on an 8×8 uncheckered board. There are sixty-four identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. During a play, any disks of the opponent's color that are in a straight line and bounded by the disk just placed and another disk of the current player's color are turned over to the current player's color.
+
+For this program there is a slight variation, the player is being alowed to place a piece even if it does not take one
+from the other player. This was done as it makes the game much more intiuative to play.
+
+To play the game run the project executable, starting with the black player each player takes turns clicking on an empty cell to place a piece.
+The user may also choose to pass either one or two names as arguemnts in
+If only one player is passed he plays agains the white player, if both are passed both the names are displayed.
+If more than 2 are passed they are just ignored.
+
+Once the game is over the winner is anounced.
+
+You may also exit the game at any time by pressing the 'q' key. 
+
+Dont let the first player press the 'p' key...
+
+There is a small graphics surprise at the end of the game!
